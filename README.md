@@ -67,7 +67,7 @@ I --> A
 ```
 
 ## Soporte
-[Canal especialista en Power Apps](https://www.youtube.com/c/ShaneYoungCloud)
-[Canal especialista en Power Automate](https://www.youtube.com/c/RezaDorrani/videos)
-[Foro de Power Automate](https://powerusers.microsoft.com/t5/General-Power-Automate/bd-p/MPAForum)
-[Consultas ODATA](https://diyd365.com/2019/11/20/every-power-automate-ms-flow-filter-query-you-ever-wanted-to-know-as-a-functional-consultant/)
+- [Canal especialista en Power Apps](https://www.youtube.com/c/ShaneYoungCloud)
+- [Canal especialista en Power Automate](https://www.youtube.com/c/RezaDorrani/videos)
+- [Foro de Power Automate](https://powerusers.microsoft.com/t5/General-Power-Automate/bd-p/MPAForum)
+- [Consultas ODATA](https://diyd365.com/2019/11/20/every-power-automate-ms-flow-filter-query-you-ever-wanted-to-know-as-a-functional-consultant/)
