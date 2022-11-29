@@ -1,7 +1,4 @@
 # Guía de Power Platform
-> Credenciales:
-proyectos@sinova.co 
-##sinova@@2022**
 ## Power Apps
 1. [Curso de Power Apps (Udemy)](https://www.udemy.com/course/mspowerapps-yna)
 2. [Funciones y operaciones delegables](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/delegation-overview)
